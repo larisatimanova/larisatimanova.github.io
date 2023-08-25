@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container {
+    max-width: 1140px;
+    padding: 0px 15px;
+    margin: 0px auto;
+
+}
+
+.header {
+    width: 100%;
+    color: white;
+    padding: 20px;
+    background: #151c39;
+    box-sizing: border-box;
+}
+.menu-iter {
+    list-style: none;
+
+}
+.menu-link {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.banner-title, .banner-description {
+    text-align: center;
+    color: white;
+  }
+  .banner-title {
+    font-size: 48px;
+      }
+      .banner-section {
+        padding: 100px 0px;
+        background: url(img/kisspng-portable-network-graphics-robot-clip-art-transpare-5d2b33a3601432.6148217415631123553936.jpg) ;
+        background-size: cover;
+        background-position: center;
+      }
+      .cards-section {
+        padding: 50px 0px;
+      }
+      .cards-title, .cards-deskription {
+        color: #151c39;
+        text-align: center;
+      }
+      .card {
+        padding: 25px;
+        margin-top: 25px;
+        width: 25%;
+        background: white;
+        box-shadow: 0px 2px 7px 3px #9e90ff;
+      }
+      .card-link {
+        text-decoration: none;
+        color: white;
+     }
+     .card-batton {
+        text-align: center;
+        background: #151c39;
+        padding: 10px 25px;
+        border-radius: 10px;
+        cursor: pointer;
+      }
+      .card-title, .card-text {
+        margin-bottom: 10px;
+      }
+      .cards {
+        display: inline-block;
+        width: 25%;
+        margin: 0px 45px;
+      }
+      .footer {
+        background: url(img/pictures-of-cartoon-robots-27.jpg);
+        background-size: cover;
+        padding: 100px;
+      }
+      .copyright {
+        color: blue;
+      }
+        
+      
